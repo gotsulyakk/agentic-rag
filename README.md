@@ -9,6 +9,7 @@ Using LangGraph to build agentic workflow based on
 ![Advanced RAG](img/langgraph_adaptive_rag.png)
 
 LangGraph built-in mermaid visualization
+
 ![LangGraphRAG](agentic_rag/graph.png)
 ## Installation
 
