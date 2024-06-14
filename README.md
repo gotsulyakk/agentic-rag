@@ -17,8 +17,8 @@ To get started, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/advanced-rag.git
-    cd advanced-rag
+    git clone https://github.com/gotsulyakk/agentic-rag.git
+    cd agentic-rag
     ```
 
 2. **Install dependencies**:
