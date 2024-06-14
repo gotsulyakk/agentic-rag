@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "advanced-rag"
+version = "0.1.0"
+description = ""
+authors = ["gotsulyakk"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.3"
+beautifulsoup4 = "4.12.3"
+langchain = "0.2.3"
+langgraph = "0.0.67"
+langchainhub = "0.1.20"
+langchain-community = "0.2.4"
+black = "24.4.2"
+isort = "5.13.2"
+tavily-python = "0.3.3"
+langchain-chroma = "0.1.1"
+python-dotenv = "1.0.1"
+pytest = "8.2.2"
+langchain-openai = "0.1.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
