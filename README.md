@@ -48,6 +48,6 @@ poetry run python main.py
 
 ## Acknowledgements
 
-https://www.youtube.com/watch?v=NZbgduKl9Zk
-https://www.youtube.com/watch?v=zXFxmI9f06M
-https://github.com/mistralai/cookbook/tree/main/third_party/langchain
+- https://www.youtube.com/watch?v=NZbgduKl9Zk
+- https://www.youtube.com/watch?v=zXFxmI9f06M
+- https://github.com/mistralai/cookbook/tree/main/third_party/langchain
